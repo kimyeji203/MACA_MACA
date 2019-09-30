@@ -4,6 +4,7 @@
 
 # 실행 화면
 <div>
+  <img src='https://user-images.githubusercontent.com/38337323/65885523-cb4ef780-e3d5-11e9-8c58-02dce72b2b54.png'>
 ![main](https://user-images.githubusercontent.com/38337323/65885523-cb4ef780-e3d5-11e9-8c58-02dce72b2b54.png)
 ![1](https://user-images.githubusercontent.com/38337323/65885542-d0ac4200-e3d5-11e9-9222-de71106a85bf.png)
 ![2](https://user-images.githubu
